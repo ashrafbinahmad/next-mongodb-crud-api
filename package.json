@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-next-express-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mongoose": "^5.10.9",
+    "next": "^12.1.0",
+    "prop-types": "^15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-hook-form": "^6.9.5",
+    "swr": "^0.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}
